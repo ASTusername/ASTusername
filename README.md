@@ -10,5 +10,5 @@
 **Я QA c опытом в тестировании и программировании. Участвовал в web и backend тестировании (Unit, Mock). Имеется опыт автоматизированного тестирования. В свободное время занимаюсь изучением JavaScript и кибер-безопасности.**
 
 ## Мое резюме
-https://drive.google.com/file/d/1uavNPMnjdxt3H07uP3GUl54RhA9ZujVs/view?usp=sharing
+https://drive.google.com/file/d/18FSQsADQxfm802Xt2H9yn1X_AnApnPrt/view?usp=sharing
 
