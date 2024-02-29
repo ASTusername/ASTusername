@@ -24,11 +24,11 @@
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
  
-  |      Project name                                                                |                   GitHub links                                   
-  |--------------------------------------------------------------------------------- |-----------------------------------------------------------------------|
-  |  :star:    Проект UI по автоматизации тестировании сайта АО "Райфайзен Банк"     |   [UI_TESTS](https://github.com/le-vi-che/UI_Raif_project)            |  
-  |  :star:      API проект тестирования  сервиса Reqres.in                         |   [API_TESTS](https://github.com/le-vi-che/API_project/tree/main)     |  
-  |  :star:    Проект Mobile автоматизации приложения Wikipedia                      |   [MOBILE_TESTS](https://github.com/le-vi-che/mobile_project)         |  
+  | Project name                                               |                   GitHub links                                   
+---------------------------------------------------------------|--------------------------------------------------------------------------------- |-----------------------------------------------------------------------|
+  | :star:    UI-тестировании сайта "Русский музей"            |   [UI_TESTS](https://github.com/ASTusername/UI_project)            |  
+  | :star:    API-тестирование сайта Reqres.in                 |   [API_TESTS](https://github.com/ASTusername/API_project)     |  
+  | :star:    Mobile-тестирование приложения Wikipedia         |   [MOBILE_TESTS](https://github.com/ASTusername/mobile_project)         |  
 
 
 
@@ -37,9 +37,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=le-vi-che&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ASTusername&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=le-vi-che&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASTusername&theme=solarized_dark)
 
 
 ![]()
