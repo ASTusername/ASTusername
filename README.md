@@ -24,11 +24,11 @@
  <img src="https://avatars.githubusercontent.com/u/65260527?s=200&v=4" title="QA Guru" alt="QA Guru" width="70" height="70"/>&nbsp;
 </p>
  
-  | Project name                                               |                   GitHub links                                   
----------------------------------------------------------------|--------------------------------------------------------------------------------- |-----------------------------------------------------------------------|
-  | :star:    UI-тестировании сайта "Русский музей"            |   [UI_TESTS](https://github.com/ASTusername/UI_project)            |  
-  | :star:    API-тестирование сайта Reqres.in                 |   [API_TESTS](https://github.com/ASTusername/API_project)     |  
-  | :star:    Mobile-тестирование приложения Wikipedia         |   [MOBILE_TESTS](https://github.com/ASTusername/mobile_project)         |  
+  | Project name                                       | GitHub links                                                  |
+  |---------------------------------------------------------------|---------------------------------------------------------------|
+  | :star:    UI-тестировании сайта "Русский музей"    | [UI_TESTS](https://github.com/ASTusername/UI_project)         |  
+  | :star:    API-тестирование сайта Reqres.in         | [API_TESTS](https://github.com/ASTusername/API_project)       |  
+  | :star:    Mobile-тестирование приложения Wikipedia | [MOBILE_TESTS](https://github.com/ASTusername/mobile_project) |  
 
 
 
