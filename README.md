@@ -25,9 +25,9 @@
 </p>
  
   | Project name                                       | GitHub links                                                  |
-  |---------------------------------------------------------------|---------------------------------------------------------------|
+----------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
   | :star:    UI-тестировании сайта "Русский музей"    | [UI_TESTS](https://github.com/ASTusername/UI_project)         |  
-  | :star:    API-тестирование сайта Reqres.in         | [API_TESTS](https://github.com/ASTusername/API_project)       |  
+  | :star:    API-тестирование сайта Demoqa.com        | [API_TESTS](https://github.com/ASTusername/API_project)       |  
   | :star:    Mobile-тестирование приложения Wikipedia | [MOBILE_TESTS](https://github.com/ASTusername/mobile_project) |  
 
 
